@@ -16,15 +16,15 @@ Headerpage.innerHTML =
 			      <li class="active nav-item nav-link home ">
 			        Home
 			      </li>
-			      <li class="nav-item nav-link">
+			      <li class="nav-item nav-link pro">
 			       <a href="#Men"> Men's</a>
 			          
 			      </li>
-			       <li class="nav-item nav-link">
+			       <li class="nav-item nav-link pro">
 			        <a href="#Women"> Women's</a>
 			           
 			      </li>
-			       <li class="nav-item nav-link">
+			       <li class="nav-item nav-link pro">
 			       <a href="#kids"> Kid's</a>
 			          
 			      </li>
@@ -40,7 +40,7 @@ Headerpage.innerHTML =
 				        Features
 				        </div>
 			      </li>
-			      <li class="nav-item nav-link" >
+			      <li class="nav-item nav-link pro" >
 			        <a href="#explore">  Explore  </a>
 			      </li>
 			  </ul>

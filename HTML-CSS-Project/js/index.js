@@ -7,7 +7,7 @@ let navDrop = document.querySelector(".navsmall ul");
 let menNav = document.querySelector(".navbar-collapse ul");
 let openMnuePage = document.querySelector(".openPagedrop");
 let openMnueFeatuers = document.querySelector(".openfeaturesdrop");
- 
+ let navbar
  
 openMnuePage.addEventListener("click",toggelPageDrop);
 openMnueFeatuers.addEventListener("click",toggelFeaturesDrop);
